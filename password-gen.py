@@ -1,5 +1,4 @@
 # python
-context.py
 
 import random
 
