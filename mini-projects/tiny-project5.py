@@ -1,3 +1,5 @@
+#PIP & txt files
+
 # Q1
 # PIP stands for "Preferred Installer Program" and is used as a recommended tool to install additional libraries and
 # packages that are not part of the standard Python library.
